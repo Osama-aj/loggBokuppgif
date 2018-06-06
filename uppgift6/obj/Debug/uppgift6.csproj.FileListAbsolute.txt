@@ -1,0 +1,5 @@
+C:\Users\Osama\Desktop\programering\sista uppgft\uppgift6\uppgift6\obj\Debug\uppgift6.csprojResolveAssemblyReference.cache
+C:\Users\Osama\Desktop\programering\sista uppgft\uppgift6\uppgift6\bin\Debug\uppgift6.exe
+C:\Users\Osama\Desktop\programering\sista uppgft\uppgift6\uppgift6\bin\Debug\uppgift6.pdb
+C:\Users\Osama\Desktop\programering\sista uppgft\uppgift6\uppgift6\obj\Debug\uppgift6.exe
+C:\Users\Osama\Desktop\programering\sista uppgft\uppgift6\uppgift6\obj\Debug\uppgift6.pdb
